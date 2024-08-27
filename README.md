@@ -11,10 +11,13 @@ This project is a Python tool designed to assess the strength of a password base
 
 ## Getting Started
 
+
+
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Password-Complexity-Checker.git
+    git clone https://github.com/fidhathasnin/PRODIGY_CS_03.git
     ```
+
 
 2. **Run the script**:
     ```bash
