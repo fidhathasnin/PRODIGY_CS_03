@@ -40,7 +40,3 @@ The tool evaluates the password against a set of criteria and categorizes it as 
 ## Contributing
 
 If you'd like to contribute to this project, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
